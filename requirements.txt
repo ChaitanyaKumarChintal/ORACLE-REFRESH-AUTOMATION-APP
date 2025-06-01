@@ -1,0 +1,5 @@
+ttkbootstrap>=1.10.1
+paramiko>=3.3.1
+python-dotenv>=1.0.0
+cx-Oracle>=8.3.0
+tkcalendar==1.6.1 

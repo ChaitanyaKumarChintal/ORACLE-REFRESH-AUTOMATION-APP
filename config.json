@@ -1,0 +1,18 @@
+{
+    "source": {
+        "host": "192.168.29.158",
+        "ssh_user": "oracle",
+        "oracle_user": "system",
+        "pdb_name": "pdb_source",
+        "dir_name": "backup_dir",
+        "dir_path": "/u01/backups/pdb_source"
+    },
+    "target": {
+        "host": "192.168.29.157",
+        "ssh_user": "oracle",
+        "oracle_user": "system",
+        "pdb_name": "pdb_target",
+        "dir_name": "backup_dir",
+        "dir_path": "/u01/backups/pdb_target"
+    }
+}
